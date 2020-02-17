@@ -1,5 +1,5 @@
 # DataScienceProjects
-UC Berkeley Principles and Techniques of Data Science 
+Principles and Techniques of Data Science 
 
 Project 1: investigate restaurant food safety scores for restaurants in San Francisco through various steps of exploratory data analysis
 https://data100.datahub.berkeley.edu/user/david-lin/notebooks/sp19/proj/proj1/proj1.ipynb
